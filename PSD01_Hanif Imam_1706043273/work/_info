@@ -1,0 +1,148 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/Quwrof Wrlccywrlir/Documents/MEGA/Documents/Tek. Komputer UI - Semester 4/Perancangan Sistem Digital/Modul 01
+Ebcd_to_7seg
+Z0 w1551266455
+Z1 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z2 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z3 dC:/Users/Quwrof Wrlccywrlir/Documents/MEGA/Documents/Tek. Komputer UI - Semester 4/2_Praktikum PSD/01_VHDL_Modul 01
+Z4 8C:/Users/Quwrof Wrlccywrlir/Documents/MEGA/Documents/Tek. Komputer UI - Semester 4/2_Praktikum PSD/01_VHDL_Modul 01/bit_to_dec.vhd
+Z5 FC:/Users/Quwrof Wrlccywrlir/Documents/MEGA/Documents/Tek. Komputer UI - Semester 4/2_Praktikum PSD/01_VHDL_Modul 01/bit_to_dec.vhd
+l0
+L4
+V25kL_QF;Ch`8GNK8EZkj`1
+!s100 mRcLNaWEZL1F6_BNlG6PK3
+Z6 OV;C;10.5b;63
+32
+Z7 !s110 1551266459
+!i10b 1
+Z8 !s108 1551266459.000000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Quwrof Wrlccywrlir/Documents/MEGA/Documents/Tek. Komputer UI - Semester 4/2_Praktikum PSD/01_VHDL_Modul 01/bit_to_dec.vhd|
+Z10 !s107 C:/Users/Quwrof Wrlccywrlir/Documents/MEGA/Documents/Tek. Komputer UI - Semester 4/2_Praktikum PSD/01_VHDL_Modul 01/bit_to_dec.vhd|
+!i113 1
+Z11 o-work work -2002 -explicit
+Z12 tExplicit 1 CvgOpt 0
+Aconvert_b7
+R1
+R2
+DEx4 work 11 bcd_to_7seg 0 22 25kL_QF;Ch`8GNK8EZkj`1
+l10
+L9
+VVQ`A[n@>d6^]`jo9Yk?PV2
+!s100 kMiIF9?8^N53MfFAdb1L80
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Ebin_to_dec
+w1551264958
+R1
+R2
+R3
+R4
+R5
+l0
+L5
+Vg3^f34V@:7d5aB5<ZKeIR3
+!s100 `iBS5n<@S>f88OTQf`7WE2
+R6
+32
+!s110 1551265339
+!i10b 1
+!s108 1551265339.000000
+R9
+R10
+!i113 1
+R11
+R12
+Ebit_to_dec
+Z13 w1551268525
+R1
+R2
+R3
+R4
+R5
+l0
+L4
+VOah_DO2=[9;U6`RD33AC^2
+!s100 fLZGL6YdAc=1EzjVQ2j243
+R6
+32
+Z14 !s110 1551269558
+!i10b 1
+Z15 !s108 1551269558.000000
+R9
+R10
+!i113 1
+R11
+R12
+Aconvert_bd
+R1
+R2
+Z16 DEx4 work 10 bit_to_dec 0 22 Oah_DO2=[9;U6`RD33AC^2
+l10
+L9
+Z17 V;7mdDYR:DzO>ZoAknVim70
+Z18 !s100 PoL:IEC7XB`T3=gU5g2dN2
+R6
+32
+R14
+!i10b 1
+R15
+R9
+R10
+!i113 1
+R11
+R12
+Emux
+Z19 w1551265336
+R1
+R2
+R3
+Z20 8C:/Users/Quwrof Wrlccywrlir/Documents/MEGA/Documents/Tek. Komputer UI - Semester 4/2_Praktikum PSD/01_VHDL_Modul 01/mux.vhd
+Z21 FC:/Users/Quwrof Wrlccywrlir/Documents/MEGA/Documents/Tek. Komputer UI - Semester 4/2_Praktikum PSD/01_VHDL_Modul 01/mux.vhd
+l0
+L5
+V6P4G;m^Zg`[<ka:i[S_nz1
+!s100 5I`4^TO>Giz?`64od9:NJ0
+R6
+32
+R14
+!i10b 1
+Z22 !s108 1551269557.000000
+Z23 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Quwrof Wrlccywrlir/Documents/MEGA/Documents/Tek. Komputer UI - Semester 4/2_Praktikum PSD/01_VHDL_Modul 01/mux.vhd|
+Z24 !s107 C:/Users/Quwrof Wrlccywrlir/Documents/MEGA/Documents/Tek. Komputer UI - Semester 4/2_Praktikum PSD/01_VHDL_Modul 01/mux.vhd|
+!i113 1
+R11
+R12
+Aplex
+R1
+R2
+DEx4 work 3 mux 0 22 6P4G;m^Zg`[<ka:i[S_nz1
+l12
+L11
+V42:i2ch74L]bMnJh5:9lX0
+!s100 ?Gk<:]HNSUb7Bc[0eaO>i0
+R6
+32
+R14
+!i10b 1
+R22
+R23
+R24
+!i113 1
+R11
+R12
