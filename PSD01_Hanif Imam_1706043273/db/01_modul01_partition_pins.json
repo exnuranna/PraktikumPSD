@@ -1,0 +1,125 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "FO7[0]",
+					"strict" : false
+				},
+				{
+					"name" : "FO7[1]",
+					"strict" : false
+				},
+				{
+					"name" : "FO7[2]",
+					"strict" : false
+				},
+				{
+					"name" : "FO7[3]",
+					"strict" : false
+				},
+				{
+					"name" : "FO7[4]",
+					"strict" : false
+				},
+				{
+					"name" : "FO7[5]",
+					"strict" : false
+				},
+				{
+					"name" : "FO7[6]",
+					"strict" : false
+				},
+				{
+					"name" : "FO1[0]",
+					"strict" : false
+				},
+				{
+					"name" : "FO1[1]",
+					"strict" : false
+				},
+				{
+					"name" : "FO1[2]",
+					"strict" : false
+				},
+				{
+					"name" : "FO1[3]",
+					"strict" : false
+				},
+				{
+					"name" : "FPB",
+					"strict" : false
+				},
+				{
+					"name" : "FPA",
+					"strict" : false
+				},
+				{
+					"name" : "FC[0]",
+					"strict" : false
+				},
+				{
+					"name" : "FD[0]",
+					"strict" : false
+				},
+				{
+					"name" : "FB[0]",
+					"strict" : false
+				},
+				{
+					"name" : "FA[0]",
+					"strict" : false
+				},
+				{
+					"name" : "FC[1]",
+					"strict" : false
+				},
+				{
+					"name" : "FD[1]",
+					"strict" : false
+				},
+				{
+					"name" : "FB[1]",
+					"strict" : false
+				},
+				{
+					"name" : "FA[1]",
+					"strict" : false
+				},
+				{
+					"name" : "FC[2]",
+					"strict" : false
+				},
+				{
+					"name" : "FD[2]",
+					"strict" : false
+				},
+				{
+					"name" : "FB[2]",
+					"strict" : false
+				},
+				{
+					"name" : "FA[2]",
+					"strict" : false
+				},
+				{
+					"name" : "FC[3]",
+					"strict" : false
+				},
+				{
+					"name" : "FD[3]",
+					"strict" : false
+				},
+				{
+					"name" : "FB[3]",
+					"strict" : false
+				},
+				{
+					"name" : "FA[3]",
+					"strict" : false
+				}
+			]
+		}
+	]
+}
