@@ -29,36 +29,28 @@ begin
   end if;
 
 end process;
-
+-------------------------------------------
 process (out_1)
 begin
-  case out_1 is
+  case out_1 is  -----Kode 7_seg invers, pake kaki katoda.
  when "0000" =>
- bcd_7seg <= "0000001"; --- 0
-
+	 bcd_7seg <= "0000001";
  when "0001" =>
- bcd_7seg <= "1001111"; ---1
-
+ 	bcd_7seg <= "1001111"; 
  when "0010" =>
- bcd_7seg <= "0010010"; ---2
-
+ 	bcd_7seg <= "0010010"; 
  when "0011" =>
- bcd_7seg <= "0000110"; ---3
-
+ 	bcd_7seg <= "0000110"; 
  when "0100" =>
- bcd_7seg <= "1001100"; ---4
-
+ 	bcd_7seg <= "1001100"; 
  when "0101" =>
- bcd_7seg <= "0100100"; ---5
-
+	 bcd_7seg <= "0100100";
  when "0110" =>
- bcd_7seg <= "0100000"; ---6
- 
+ 	bcd_7seg <= "0100000"; 
  when "0111" =>
- bcd_7seg <= "0001111"; ---7
- 
+ 	bcd_7seg <= "0001111"; 
  when others =>
- bcd_7seg <= "1111111"; ---NULL
+ 	bcd_7seg <= "1111111"; 
 
   end case;
 end process;
